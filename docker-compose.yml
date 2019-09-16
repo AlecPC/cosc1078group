@@ -1,0 +1,15 @@
+# Dev environment docker setup
+version: '3'
+services:
+# NodeJS
+    node:
+        build:
+            context: .
+            dockerfile: ./docker/node/Dockerfile
+        volumes:
+          - ./:/usr/src/app
+        ports:
+            - "3008:8080"
+networks:
+    dev-network:
+        driver: bridge
