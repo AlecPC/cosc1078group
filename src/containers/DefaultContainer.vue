@@ -7,12 +7,11 @@
         <span class="ml-3 text-dark">IT Professionals</span>
       </b-link>
       <b-navbar-nav class="d-md-down-none">
-        <b-nav-item to="/" class="px-3">Profile</b-nav-item>
-        <b-nav-item to="/profile" class="px-3">Industry Data</b-nav-item>
-        <b-nav-item to="/project" class="px-3">Interview</b-nav-item>
-        <b-nav-item to="/more" class="px-3">Tech</b-nav-item>
-        <b-nav-item to="/more" class="px-3">Project</b-nav-item>
-        <b-nav-item to="/more" class="px-3">More</b-nav-item>
+        <b-nav-item to="/" class="px-3">Home</b-nav-item>
+        <b-nav-item to="/project" class="px-3">Project</b-nav-item>
+        <b-nav-item to="/industry" class="px-3">Industry Data</b-nav-item>
+        <b-nav-item to="/interview" class="px-3">IT Work</b-nav-item>
+        <b-nav-item to="/tech" class="px-3">Tech</b-nav-item>
       </b-navbar-nav>
       <b-navbar-nav class="ml-auto">
         <!-- <b-nav-item class="d-md-down-none">

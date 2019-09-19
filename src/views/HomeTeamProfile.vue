@@ -1,6 +1,6 @@
 <template>
   <div class="animated fadeIn">
-    Home
+    Home2
   </div>
 </template>
 

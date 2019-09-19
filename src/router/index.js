@@ -5,10 +5,11 @@ import Router from 'vue-router'
 const DefaultContainer = () => import('@/containers/DefaultContainer')
 
 // Views
-const Home = () => import('@/views/Home')
-const Profile = () => import('@/views/Profile')
+const Home = () => import('@/views/HomeTeamProfile')
+const IndustryData = () => import('@/views/IndustryData')
 const Project = () => import('@/views/Project')
-const More = () => import('@/views/More')
+const Interview = () => import('@/views/Interview')
+const Tech = () => import('@/views/Tech')
 
 // Views - Pages
 const Page404 = () => import('@/views/error/Page404')
@@ -32,9 +33,9 @@ export default new Router({
           component: Home
         },
         {
-          path: 'profile',
-          name: 'Profile',
-          component: Profile
+          path: 'industry',
+          name: 'Industry Data',
+          component: IndustryData
         },
         {
           path: 'project',
@@ -42,9 +43,14 @@ export default new Router({
           component: Project
         },
         {
-          path: 'more',
-          name: 'more',
-          component: More
+          path: 'interview',
+          name: 'Interview',
+          component: Interview
+        },
+        {
+          path: 'tech',
+          name: 'Tech',
+          component: Tech
         },
       ]
     },
