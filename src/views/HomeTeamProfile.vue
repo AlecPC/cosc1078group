@@ -128,6 +128,55 @@ The first factor shows my introversion, I do not like social activities.The seco
 
 
         </p>
+        <h3>Summary</h3>
+        <p>These tests help me know myself better.My personality, my daily behaviors, my style of studying.The results can be the guidance of my behavior to some degree.Although there are some points in the result are against the fact, I could think about the reasons and learn more about myself and other people.
+
+I usually tend to play a role that is not what I am good at and do something that is actually beyond my ability which harm my performance in the team. I should think about what is the best role I can play in a team combined with the test results which is helpful to be active and fit well in a team.Thus, I would change my behaviour according to the test results to see the benefits.I will continue to stay positive but try to be less idealistic to avoid subjective judgement.And it is important for me to improve social abilities.
+
+When forming a team, I will keep the diversity and try not to bring in too much disagreements and conflicts.Thus, people with different characteristics are needed.The team members should be able to cooperate with each other well but not lacking the creativity.To make full use of members’ advantages, I will take members’ ability, personality and other features into consideration when forming the team and also respect their will.Competitions are allowed as long as it does not harm the operation of the team.While the extremists are not welcomed.
+
+</p>
+      </div>
+    </div>
+    <div class="row px-5 py-5 bg-dark">
+      <div class="col">
+        <h1>Shanogeeth</h1>     
+        <h3>Personal information</h3> 
+        <p>
+           Team Name- IT Professionals
+Name- Shanogeeth Shanmuganathan
+ Student ID- s3799383 
+Personal email- shanogeeth@gmail.com
+RMIT email- s3799383@student.rmit.edu.au
+I am from Sri-Lanka, and my religion is Hinduism. I started my career in Trinity College Kandy, Sri-Lanka in 2004. Once I completed my schooling career, I joined the Institute of Australian College of Information and Technology (ACBT) to finish my foundation program in the IT field in 2018. Currently following Bachelors of Information Technology in RMIT University in Melbourne. Quite familiar with three types of languages which are, English, Tamil and Sinhalese.
+ Playing cricket helped me a lot to  build up my personality as well as  skills in cricket. I was able to represent Sri-Lanka U19 to play against various countries such as India , Australia, England and many. I was able to hold a world record of scoring 270 runs in a One-day match. Later on, I visited Australia as a Contract player in 2017 to play for Forest Hill Cricket Club and currently playing for the same club for the season 2019/20
+        </p>
+        <div class="card-deck">
+          <div class="card">
+            <h2 class="text-dark">Myers-Briggs Test Results</h2>
+            <img src="/img/a.png" class="card-img-top" alt="..." />
+          </div>
+          <div class="card">
+            <h2 class="text-dark">The learning style result</h2>
+            <img src="/img/b.png" class="card-img-top" alt="..." />
+          </div>
+          <div class="card">
+            <h2 class="text-dark">Big five Personality test</h2>
+            <img src="/img/c.png" class="card-img-top" alt="..." />
+          </div>
+        </div>
+        <p><br>
+          O- Openness<br>
+ C-Conscientiousness <br>
+E-Extraversion <br>
+A-Agreeableness<br>
+ N-Neuroticism <br>
+<br>
+These results evaluate my personality skills and learning style . It helps to identify the strengths and weaknesses of the relevant sections. 
+ 
+According to the Myer-Briggs test, I have identified as a caring creator. Tactile learning will be more suitable according to Learning style test. Finally, according to Big five Personality test, 75% belongs to Agreeableness. It will help to identify the strengths and to take risks to succeed in a relevant task. It will help to create a positive executive presence; it will be easy to share things which I am good at. Should be able to form a group where each and every individual differs with different skills and personalities . Build relationships among others where you will be able to develop skills and personalities in which you lack off.
+
+          </p>
       </div>
     </div>
   </div>
