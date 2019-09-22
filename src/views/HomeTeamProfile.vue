@@ -179,6 +179,75 @@ According to the Myer-Briggs test, I have identified as a caring creator. Tactil
           </p>
       </div>
     </div>
+    <div class="row px-5 py-5 bg-light">
+      <div class="col">
+        <h1>
+          Alec 
+        </h1>
+        <p style="max-width: 950px">
+          My name is Alec Prestia-Cook, i'm originally from Sydney and I moved to Melbourne in 2014, I have always had a passion for IT whether it was hardware or software. I enjoyed pulling apart machines and looking at the inner workings as well as learning the basics of many programming languages. My main interest with modern day IT is that of Machine learning and the opportunities that cloud computing offers. They are both highly expansive areas and both have great potential for growing and having large impact in the future and areas they can expand into. In my spare time I love video games and am a large movie buff having done film and media studies throughout my schooling life.
+        </p>
+        <h2>Myers-Briggs Test Results</h2>
+        <p style="max-width: 950px">
+          Adventurer - ISFP-A <br>
+57% Introverted - 51% Observant - 54% Feeling - 57% Prospecting - 67% Assertive
+
+        </p>
+        <h2>
+          The learning style result
+        </h2>
+        <p style="max-width: 950px">
+          Auditory: 45%
+Visual: 35%
+Tactile: 20%
+
+        </p>
+
+        <h2>
+          Big Five Personality Test
+        </h2>
+        <p>
+          O = 60%
+C = 42%
+E = 60%
+A = 75%
+N = 46%
+
+        </p>
+        <p>These tests show that when it comes to personality I am quite agreeable and assertive in how I present myself towards others. I do not shy away from conversing or getting to know people and when it comes to work I am happy to converse, share and listen to others ideas and opinions on how they think tasks should be completed and attended to. As I am an auditory learner this means that I learn best by hearing things out loud or repeating questions to myself in forms such as a verbal test with another person as it bests reinforces this in my head.</p>
+      </div>
+    </div>
+    <div class="row px-5 py-5 bg-dark text-light">
+      <div class="col">
+        <h1>
+          Rimpal 
+        </h1>
+        <p style="max-width: 950px">
+          My name is Rimpal Kaur. I am an international student at RMIT university. My student number is s3734036 and s3734036@student.rmit.edu.au is my email address. Basically, I am from India and I have completed my schooling here. I belong to Punjabi culture as my religion is Sikhism, including to this, Punjabi is my mother tongue and I can speak Hindi (my national language) and English as well. As every person possesses own talent, I find myself as a good player of badminton.
+        </p>
+        <h2>Myers-Briggs Test Results</h2>
+        <p style="max-width: 950px">
+The results show I have ESFJ personality. Extraversion, Sensing= feeling  j= Judging According to this I am able to gain energy from interacting with other people and more focused on the present rather than the future. Make decisions based on personal thinking rather then considering objective criteria. As well as able to plan things in advance.
+        </p>
+        <h2>
+          The learning style result
+        </h2>
+        <p style="max-width: 950px">
+    Auditory: 35% Visual: 35% Tactile: 30%
+
+
+        </p>
+
+        <h2>
+          Big Five Personality Test
+        </h2>
+        <p>
+         Results are abbreviated in OCEAN where o(openness) =90%, c(conscientiousness)=73% , E(extraversion)= 65% , A(agreeableness)=79% , n(neuroticism)= 56%<br> This test show me as more creative and imaginative than average. The results of these tests are alot to as these are revealing my personality.I would like to learn from these results what is right or wrong for me apart from it these would help me in developing skills. Thinking for myself to working in a team with these traits seeming I would be a team leader as shown in the results I am more creative and open minded. so I think my team would do fantastic work. <br>Team members should have a way to sort out problems while making a team I would focus on the their behaviour like rather they are friendly or not as well as their creative ideas.
+ 
+
+        </p>
+      </div>
+    </div>
   </div>
 </template>
 
