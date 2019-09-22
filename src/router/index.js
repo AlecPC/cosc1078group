@@ -6,10 +6,6 @@ const DefaultContainer = () => import('@/containers/DefaultContainer')
 
 // Views
 const Home = () => import('@/views/HomeTeamProfile')
-const IndustryData = () => import('@/views/IndustryData')
-const Project = () => import('@/views/Project')
-const Interview = () => import('@/views/Interview')
-const Tech = () => import('@/views/Tech')
 
 // Views - Pages
 const Page404 = () => import('@/views/error/Page404')
@@ -18,40 +14,21 @@ const Page500 = () => import('@/views/error/Page500')
 Vue.use(Router)
 
 export default new Router({
-  mode: 'history', // https://router.vuejs.org/api/#mode
+  mode: 'hash', // https://router.vuejs.org/api/#mode
   linkActiveClass: 'open active',
   scrollBehavior: () => ({ y: 0 }),
   routes: [
     {
       path: '/',
       name: 'Home',
+      redirect: '/home',
       component: DefaultContainer,
       children: [
         {
-          path: '/',
+          path: '/home',
           name: 'Home',
           component: Home
-        },
-        {
-          path: 'industry',
-          name: 'Industry Data',
-          component: IndustryData
-        },
-        {
-          path: 'project',
-          name: 'project',
-          component: Project
-        },
-        {
-          path: 'interview',
-          name: 'Interview',
-          component: Interview
-        },
-        {
-          path: 'tech',
-          name: 'Tech',
-          component: Tech
-        },
+        }
       ]
     },
     {
