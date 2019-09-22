@@ -87,6 +87,49 @@
         <p class="lead col-md-7 px-0">The above results show I'm a very logical thinker and have a measured approach to problems whilst being very confident about my opinions. They also show I'm aware of my actions and how they effect others. In a team evnrionemnt its important I consider the views and thoughts of others and try to not to suppress ideas by overly advocating my own.</p>
       </div>
     </div>
+    <div class="row px-5 py-5 bg-light">
+      <div class="col">
+        <h1>
+          Kim 
+        </h1>
+        <p style="max-width: 950px">
+          My name is Zongzhou Wang, you can also call me Kim.I’m from China so I speak Chinese and English.I major in Bachelor of IT and this is my first year.I have a twin brother who is studying in UTS.I have some hobbies such as playing basketball and table tennis, playing video game travelling and listening to music.
+        </p>
+        <h2>Myers-Briggs Test Results</h2>
+        <p style="max-width: 950px">
+          Personality type: “TheMediator” (INFP-T)
+Individual traits: Introverted – 83%, Intuitive–55%, Feeling –75%, Prospecting– 69%, Turbulent – 65%
+
+I am kind of idealistic.I will look in a good way even when in a bad situation and make efforts to make things better.I act reserved but have inner passion.When meet with like-minded people, we can develop a harmonious relationship.
+
+        </p>
+        <h2>
+          The learning style result
+        </h2>
+        <p style="max-width: 950px">
+          auditory：25%
+visual：55%
+tactile：20%
+As a visual learner, I can efficiently learn by reading or looking at pictures. Visual content are most helpful for me to memorize and understand the contained knowledge.It is easy for me to picture things in my head which helps my study. I am recommended to visualize what people say and the sounds I heard, which contributes to my visual ability.Drawing pictures is also helpful.And I need to avoid distractions when studying.
+
+        </p>
+
+        <h2>
+          Big five personality test result
+        </h2>
+        <p>
+          Extraversion:9
+Emotional stability:26
+Agreeableness:56
+Conscientiousness:36
+Intellect/Imagination:18
+
+The first factor shows my introversion, I do not like social activities.The second one shows that I might have emotional fluctuations sometimes.Being high in agreeableness means I’m friendly and optimistic. And the last two factors shows that I am kind of diligent and careful but lack imagination.
+
+
+        </p>
+      </div>
+    </div>
   </div>
 </template>
 
