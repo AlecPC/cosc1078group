@@ -6,7 +6,7 @@
           Anthony 
         </h1>
         <p style="max-width: 950px">
-        <a href="https://s3790953.github.io/COSC1078/">Anthony website</a>
+        <a href="https://s3790953.github.io/COSC1078/">Anthony website</a><br>
           My name is Le Do Phuc An and my team’s name is IT Professional. My student number is s3790953. My mail address is s3790953@student.rmit.edu.au. I come from Viet Nam and I enjoy playing soccer, playing guitar, travelling, etc. My interest in IT is studying a whole new language of artificial inventions, fixing problems involving technological devices, getting program operate fluently, IT is the amazing world interacting efficiently with people and this world brings me the passion in exploring, learning, communicating with other people, cultures, I prefer exploring the logical algorithms of computer’s system and it is an awesome feeling when I figure out the logical connections between parts of AI. Up to now, I have some experience in coding simple programs acquired by the curriculum and some small competitions in my high school in Viet Nam.
         </p>
         <h2>Myers-Briggs Test Results</h2>
@@ -50,6 +50,7 @@
         <h1>Samuel</h1>
         <h3 style="font-weight: 100">I'm a student, developer, beach lifeguard.</h3>
         <br />
+        <a href="http://cosc1078profile.richardsonsamuel.com/">Samuel website</a><br>
         <p class="lead">
           Originally from Sydney, moved to Melbourne in 2007
           <i
@@ -94,6 +95,7 @@
           Kim 
         </h1>
         <p style="max-width: 950px">
+          <a href="https://s3688540.github.io/">Kim website</a><br>
           My name is Zongzhou Wang, you can also call me Kim.I’m from China so I speak Chinese and English.I major in Bachelor of IT and this is my first year.I have a twin brother who is studying in UTS.I have some hobbies such as playing basketball and table tennis, playing video game travelling and listening to music.
         </p>
         <h2>Myers-Briggs Test Results</h2>
@@ -144,6 +146,7 @@ When forming a team, I will keep the diversity and try not to bring in too much 
         <h1>Shanogeeth</h1>     
         <h3>Personal information</h3> 
         <p>
+          <a href="http://shanogeeth.github.io">Shanogeeth website</a><br>
            Team Name- IT Professionals
 Name- Shanogeeth Shanmuganathan
  Student ID- s3799383 
@@ -186,6 +189,7 @@ According to the Myer-Briggs test, I have identified as a caring creator. Tactil
           Alec 
         </h1>
         <p style="max-width: 950px">
+          <a href="https://alecpc.github.io/COSC1078A1/">Alec website</a><br>
           My name is Alec Prestia-Cook, i'm originally from Sydney and I moved to Melbourne in 2014, I have always had a passion for IT whether it was hardware or software. I enjoyed pulling apart machines and looking at the inner workings as well as learning the basics of many programming languages. My main interest with modern day IT is that of Machine learning and the opportunities that cloud computing offers. They are both highly expansive areas and both have great potential for growing and having large impact in the future and areas they can expand into. In my spare time I love video games and am a large movie buff having done film and media studies throughout my schooling life.
         </p>
         <h2>Myers-Briggs Test Results</h2>
@@ -224,6 +228,7 @@ N = 46%
           Rimpal 
         </h1>
         <p style="max-width: 950px">
+          <a href="Https://rimpalkaur.github.io/COSC1078A1">Rimpal website</a><br>
           My name is Rimpal Kaur. I am an international student at RMIT university. My student number is s3734036 and s3734036@student.rmit.edu.au is my email address. Basically, I am from India and I have completed my schooling here. I belong to Punjabi culture as my religion is Sikhism, including to this, Punjabi is my mother tongue and I can speak Hindi (my national language) and English as well. As every person possesses own talent, I find myself as a good player of badminton.
         </p>
         <h2>Myers-Briggs Test Results</h2>
